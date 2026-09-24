@@ -2,8 +2,6 @@
 
 Cybersecurity student at the University of East London and the person behind SFZ Lab. I build ML threat detection, secure web apps and brand motion work.
 
-**Currently:** building Sanad, a compliance and risk platform for banks, and the Arian747 security app.
-
 ### Security and ML
 - **[Phishing URL Detection](https://github.com/saiffarook-create/phishing-url-detection)**: LightGBM classifier with F1 0.946 and ROC-AUC 0.991 on a leakage-free split, SHAP explanations and a Streamlit demo.
 - **[Identity Fraud Detection](https://github.com/saiffarook-create/identity-fraud-detection)**: account takeover detection comparing 3 ML models on imbalanced data, with CLI batch scoring.
